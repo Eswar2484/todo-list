@@ -18,10 +18,14 @@ It allows users to add tasks, delete tasks, and store tasks permanently using Lo
 
 ## 📂 Project Structure
 
+```
+
 /project-folder
 │── index.html
 │── style.css
 └── script.js
+
+```
 
 ---
 
